@@ -1,4 +1,4 @@
-# workshop-spring-boot-mongodb
+# Spring_Boot_MongoDB_API
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GabrielNZ/workshop--spring-boot-mongodb/blob/main/LICENSE)
 
 # About the project
