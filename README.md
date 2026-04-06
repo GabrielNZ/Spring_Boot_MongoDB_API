@@ -3,7 +3,7 @@
 
 # About the project
 
-Workshop-Spring-Boot-Mongodb is a POO project from the course [DevSuperior](https://www.udemy.com/course/java-curso-completo/).
+Spring Boot MongoDB API is a POO project from the course [DevSuperior](https://www.udemy.com/course/java-curso-completo/).
 
 A really simple program that registrate user and posts, with each post having comments.
 The main focus of the project is to introduce my self to mongodb and NoSQL Databases.
